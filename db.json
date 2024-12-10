@@ -1,0 +1,32 @@
+{ "people":[
+    
+        {
+            "Id": 1,
+            "Fullname": "Micheal Joseph",
+            "Phone": "080123456788",
+            "email": "micheal@gmail.com",
+            "salary": "1500000"
+        },
+        {   
+            "Id": 2,
+            "Fullname": "Williams okoli",
+            "Phone": "09034343456",
+            "email": "okoli@gmail.com",
+            "salary": "120000"
+        },
+        {
+            "Id": 3,
+            "Fullname": "Amaka timothy",
+            "Phone": "09189858799",
+            "email": "tim@gmail.com",
+           "salary": "2000000"
+        }
+        
+    ]
+ 
+}
+
+
+
+
+
